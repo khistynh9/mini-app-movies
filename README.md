@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About
+a simple web application that displays movie data from the website https://developers.themoviedb.org/
+
+This is use a [Next.js](https://nextjs.org/).
 
 ## Getting Started
 

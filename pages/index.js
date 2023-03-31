@@ -1,13 +1,15 @@
 import tmdb from "../configs/tmdb";
 import Moviescontainer from "../components/Cardcontainer";
 export default function Home({ movies }) {
-  // console.log("ini moviesku", movies);
   return (
-    <div className="container">
-      <section className="mt-8">
+    <section className="mt-8">
+      <div className="container mx-auto">
+        <div className="flex justify-start mb-8">
+          <h1 className="font-semibold text-4xl">Now Playing</h1>
+        </div>
         <Moviescontainer data={movies} type="movies" />
-      </section>
-    </div>
+      </div>
+    </section>
   );
 }
 

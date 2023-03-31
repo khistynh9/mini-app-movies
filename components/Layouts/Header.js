@@ -9,9 +9,9 @@ export default function Header() {
     });
   }, []);
   return (
-    <header className="md:flex items-center justify-between     py-3 md:py-4 bg-gray-900  relative   text-gray-50 ">
+    <header className="md:flex items-center justify-between py-3 md:py-4 bg-gray-900 relative text-gray-50 ">
       <div className="flex justify-between min-w-min px-4">
-        <div className="flex text-2xl md:text-3xl font-normal relative  items-center">
+        <div className="flex text-2xl md:text-3xl font-normal relative items-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-10 w-10"
@@ -47,7 +47,7 @@ export default function Header() {
       <nav className=" md:mt-0 transition delay-300 ease-out md:px-4">
         <ul
           id="menu"
-          className=" bg-gray-800 w-full py-4 md:py-0 md:mt-0 z-40 absolute   md:relative  md:bg-gray-900 mt-3 pl-4   flex flex-col hidden md:flex   md:flex-row m-0 p-0  text-lg md:items-center gap-8"
+          className=" bg-gray-800 w-full py-4 md:py-0 md:mt-0 z-40 absolute md:relative md:bg-gray-900 mt-3 pl-4 flex flex-col hidden md:flex md:flex-row m-0 p-0 text-lg md:items-center gap-8"
         >
           <li>
             {" "}
