@@ -4,15 +4,15 @@ a simple web application that displays movie data from the website https://devel
 
 ## Tampilan Demo Aplikasi
 
-# Halaman Home
+### Halaman Home
 
 ![localhost_3000_ (4)](https://user-images.githubusercontent.com/51235974/229094773-5c396999-3ba1-44e8-9a47-c429bc72a557.png)
 
-# Halaman Login
+### Halaman Login
 
 ![localhost_3000_login](https://user-images.githubusercontent.com/51235974/229092880-f36846b3-cfd3-4eb7-b92c-755f132838d1.png)
 
-# Halaman Register
+### Halaman Register
 
 ![localhost_3000_register](https://user-images.githubusercontent.com/51235974/229092898-216a49e0-6a54-4d67-9358-786968bf5ad2.png)
 
