@@ -6,7 +6,7 @@ a simple web application that displays movie data from the website https://devel
 
 # Halaman Home
 
-![localhost_3000_](https://user-images.githubusercontent.com/51235974/229092900-91cc7d24-80ca-4867-b802-81eed948e2ae.png)
+![localhost_3000_ (4)](https://user-images.githubusercontent.com/51235974/229094773-5c396999-3ba1-44e8-9a47-c429bc72a557.png)
 
 # Halaman Login
 
