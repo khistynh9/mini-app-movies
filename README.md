@@ -2,9 +2,19 @@
 
 a simple web application that displays movie data from the website https://developers.themoviedb.org/
 
-## Link Demo Aplikasi
+## Tampilan Demo Aplikasi
 
-https://mini-app-movies-bcnghpkxs-khistynh9.vercel.app/
+# Halaman Home
+
+![localhost_3000_](https://user-images.githubusercontent.com/51235974/229092900-91cc7d24-80ca-4867-b802-81eed948e2ae.png)
+
+# Halaman Login
+
+![localhost_3000_login](https://user-images.githubusercontent.com/51235974/229092880-f36846b3-cfd3-4eb7-b92c-755f132838d1.png)
+
+# Halaman Register
+
+![localhost_3000_register](https://user-images.githubusercontent.com/51235974/229092898-216a49e0-6a54-4d67-9358-786968bf5ad2.png)
 
 This is use a [Next.js](https://nextjs.org/).
 
